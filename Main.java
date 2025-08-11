@@ -16,5 +16,7 @@ public class Main {
             }
             System.out.println();
         }
+        System.out.println("Diagonal");
+        System.out.println(lista[0][0] + " " + lista[1][1] +" "+ lista[2][2]+" "+ lista[3][3]);
     }
 }
